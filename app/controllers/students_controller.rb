@@ -9,8 +9,7 @@ class StudentsController < ApplicationController
   end
 
   def new
-    # @student = Student.new
-    # [params[:first_name, :last_name]]
+  
   end
 
   def create
